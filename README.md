@@ -5,8 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orya-s&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&theme=dracula)
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&theme=dracula)
+ -->
 <!-- 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=matannagar&show_icons=true&theme=onedark">
 <br><br>

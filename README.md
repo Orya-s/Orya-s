@@ -3,7 +3,7 @@
 - I'm a B.Sc Student in Computer Science and Mathematics
 - Right now I am working on a Deep Learning audio clasiffication!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asahelcohen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orya-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&theme=Gradient)
 

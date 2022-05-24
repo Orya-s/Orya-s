@@ -1,5 +1,4 @@
-### Hello, my name is Orya Spiegel
-
+## Hi there 👋
 - I'm a B.Sc Student in Computer Science and Mathematics
 - Right now I am working on a Deep Learning model which performs audio clasiffication!
 

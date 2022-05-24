@@ -5,6 +5,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orya-s&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orya-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
  

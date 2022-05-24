@@ -4,7 +4,7 @@
 - Right now I am working on a Deep Learning audio clasiffication!
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Orya-s)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asahelcohen&show_icons=true&theme=tokyonight)
 
 <!-- 
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=matannagar&show_icons=true&theme=onedark">

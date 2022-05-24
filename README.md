@@ -7,8 +7,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orya-s&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orya-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orya-s&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ -->
+ 
+ 
+ 
+ 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Orya-s&theme=dark&background=000000)](https://git.io/streak-stats)
  -->
  
